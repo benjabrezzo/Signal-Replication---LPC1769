@@ -1,0 +1,10 @@
+/Debug/
+/Release/
+*.o
+*.d
+*.axf
+*.map
+*.lst
+*.size
+*.list
+*.bak*
